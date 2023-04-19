@@ -4,3 +4,40 @@
     margin: 0 auto;
     padding: 0 16px;
 }
+.section__start{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 70px;
+    line-height: 105px;
+}
+.section__img{
+    display: flex;
+    justify-content: space-evenly;
+}
+.section__end{
+    display: flex;
+}
+.section__end h2{
+    font-family: 'Poppins', sans-serif;
+    font-size: 70px;
+    color: #58A9A5;
+}
+.section__end p, h5{
+    font-family: 'Poppins', sans-serif;
+    color: #58A9A5;
+}
+.box{
+    display: flex;
+    justify-content: space-between;
+} 
+.section__center{
+    margin-left:150px;
+}
+.section__text{
+    margin-top: 100px;
+    margin-left: 150px;
+}
+
+
