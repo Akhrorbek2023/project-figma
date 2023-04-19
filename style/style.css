@@ -4,3 +4,63 @@
     margin: 0 auto;
     padding: 0 16px;
 }
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+
+/* Deadpool section */
+.footer__content {
+    display: flex;
+    justify-content: space-between;
+
+}
+footer {
+    margin: 50px 0;
+}
+.footer__input {
+    display: block;
+    width: 100%;
+    margin-bottom: 15px;
+    font-size: 20px;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    border: none;
+    outline: none;
+}
+.input__border{
+    border-bottom: 1px solid #000;
+}
+.footer__left {
+    width: 38%;
+}
+.footer__vector {
+    display: block;
+}
+.footer__right{
+    width: 60%;
+}
+.footer__border {
+    padding: 20px;
+}
+.footer__title {
+    font-size: 65px;
+    font-weight: 800;
+    margin-bottom: 15px;
+}
+.footer__text {
+    font-size: 20px;
+    font-weight: 200;
+    color: rgb(44, 57, 54);
+    margin-bottom: 15px;
+}
+.footer__button {
+    background-color:  #58A9A5;
+    color: #fff;
+    padding: 15px 35px;
+    border: none;
+    border-radius: 10px 10px 10px 0;
+    font-size: 20px;
+    margin-left: 460px;
+}
+/* Deadpool section */
