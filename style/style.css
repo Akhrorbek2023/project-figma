@@ -5,7 +5,6 @@
     padding: 0 16px;
 }
 .box2-1 h1  {
-    position: absolute;
     width: 460px;
     height: 105px;
     left: 730px;
@@ -21,7 +20,7 @@
     text-align: center;
 }
 .box2-1 h4 {
-    position: absolute;
+    
     width: 506px;
     height: 90px;
     left: 707px;
@@ -37,7 +36,7 @@
     color: #404242;
 }
 .box2-1 img {
-    position: absolute;
+   
 width: 1063px;
 height: 350px;
 left: 166px;
@@ -47,7 +46,7 @@ background: url(image.png);
 border-radius: 10px 0px 0px 10px;
 }
 .box2-1 p {
-    position: absolute;
+    
     width: 328px;
     height: 120px;
     left: 1344px;
@@ -75,7 +74,7 @@ border-radius: 65px;
 }
 .box2-1 h3 {
        
-position: absolute;
+
 width: 130px;
 height: 30px;
 left: 1344px;
@@ -96,7 +95,7 @@ color: #486958;
     
 
 .box2-2 img {
-    position: absolute;
+   
     width: 642px;
     height: 650px;
     left: 166px;
@@ -105,7 +104,7 @@ color: #486958;
     background: url(image.png);
 }
 .box2-2 h3 {
-    position: absolute;
+   
     width: 487px;
     height: 180px;
     left: 953.12px;
@@ -121,7 +120,7 @@ color: #486958;
     
 }
 .box2-2 p {
-    position: absolute;
+    
     width: 708px;
     height: 225px;
     left: 950px;
