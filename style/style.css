@@ -4,6 +4,7 @@
     margin: 0 auto;
     padding: 0 16px;
 }
+<<<<<<< HEAD
 body {
     font-family: 'Poppins', sans-serif;
 }
@@ -157,3 +158,58 @@ header .button__2 {
   width: 500px;
   height: 520px;
 }
+=======
+.container h1{
+    text-align: center;
+    font-weight: bold;
+    margin-top: 50px;
+}
+.container h4{
+    text-align: center;
+    color: #404242;
+    margin-top: 15px;
+}
+.container .my-img{
+    width: 80px;
+    margin-left: 540px;
+    margin-top: 30px;
+}
+.container .my-img2{
+    width: 80px;
+    margin-left: 540px;
+    margin-bottom: 10px;
+}
+.container .boxes{
+    display: flex;
+    margin-top: 50px;
+}
+.container .boxes .box-1 {
+    margin-left: 90px;
+}
+.container .boxes .box-2 {
+    margin-left: 90px;
+}
+.container .boxes .box-1 img{
+    width: 260px;
+}
+.container .boxes .box-1 h2{
+    color: #58A9A5;
+}
+.container .boxes .box-1 h5{
+    color: #486958;
+    margin-top: 10px;
+}
+.container .boxes .box-1 img{
+    margin-top: 10px;
+}
+.container .boxes .box-2 img{
+    width: 260px;
+}
+.container .boxes .box-2 h2{
+    color: #58A9A5;
+}
+.container .boxes .box-2 h5{
+    color: #486958;
+    margin-top: 10px;
+}
+>>>>>>> 4d080fb928fba177edb51c04983e834786a1812b
